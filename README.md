@@ -2,6 +2,7 @@
 
 <p align="left"> 
   💻 Olá, meu nome é Larissa Vesper Cruz. Sou <strong>Desenvolvedora FullStack</strong>, implementando ideias e corrigindo bugs desde 2017.
+  💜 Criadora de conteúdo sobre tecnologia no instagram
 </p>
 <p align="left"> 
   🎈 Habilidades: .Net, Angular, HTML, CSS, Javascript, bancos de dados Sql Server, Postgre, Firebird, MySql e Oracle.
